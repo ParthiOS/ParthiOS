@@ -1,6 +1,5 @@
-### Hey there 👋
 
-### **Welcome...**
+### 👋**Hey There...**
 My name is Parth I am a software developer studying at the Unversity of Waterloo. I love to challenge myself and solve complex problems.  
 I especially enjoy creating machine learning algorithms and programming in python.   
 
